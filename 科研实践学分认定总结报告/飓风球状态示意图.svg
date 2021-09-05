@@ -1,0 +1,222 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 654.252 294.565">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-13, .cls-14, .cls-16, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-10, .cls-13, .cls-14, .cls-16, .cls-7, .cls-8, .cls-9 {
+        stroke: #231815;
+      }
+
+      .cls-1, .cls-11 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        fill: url(#未命名的渐变_211);
+      }
+
+      .cls-3 {
+        fill: url(#未命名的渐变_184);
+      }
+
+      .cls-4 {
+        fill: url(#未命名的渐变_157);
+      }
+
+      .cls-5 {
+        fill: url(#未命名的渐变_110);
+      }
+
+      .cls-15, .cls-17, .cls-18, .cls-19, .cls-20, .cls-6 {
+        fill: #231815;
+      }
+
+      .cls-10, .cls-7, .cls-8, .cls-9 {
+        stroke-width: 0.75px;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 4.1 4.1;
+      }
+
+      .cls-9 {
+        stroke-dasharray: 3.958 3.958;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 4;
+      }
+
+      .cls-11 {
+        stroke: #e60012;
+      }
+
+      .cls-12 {
+        fill: #e60012;
+      }
+
+      .cls-13 {
+        stroke-dasharray: 4 4;
+      }
+
+      .cls-15, .cls-20 {
+        font-size: 16.247px;
+      }
+
+      .cls-15, .cls-18, .cls-19, .cls-20 {
+        font-family: CambriaMath, Cambria Math;
+      }
+
+      .cls-16 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-17 {
+        font-size: 20px;
+        font-family: SimSun, SimSun;
+      }
+
+      .cls-18 {
+        font-size: 16px;
+      }
+
+      .cls-19 {
+        font-size: 5.522px;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.02em;
+      }
+    </style>
+    <radialGradient id="未命名的渐变_211" data-name="未命名的渐变 211" cx="116.966" cy="189.833" fx="143.15785865940617" fy="156.66234999772072" r="42.713" gradientUnits="userSpaceOnUse">
+      <stop offset="0.321" stop-color="#fff"/>
+      <stop offset="0.461" stop-color="#b9b9b9"/>
+      <stop offset="0.606" stop-color="#787878"/>
+      <stop offset="0.737" stop-color="#444"/>
+      <stop offset="0.851" stop-color="#1f1f1f"/>
+      <stop offset="0.942" stop-color="#080808"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="未命名的渐变_184" data-name="未命名的渐变 184" cx="203.037" cy="147.738" fx="242.3668973926953" fy="131.07967912317392" r="42.713" gradientUnits="userSpaceOnUse">
+      <stop offset="0.617" stop-color="#fff"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="未命名的渐变_157" data-name="未命名的渐变 157" cx="523.843" cy="172.035" fx="554.513830051963" fy="142.30815003750354" r="42.713" gradientUnits="userSpaceOnUse">
+      <stop offset="0.307" stop-color="#fff"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="未命名的渐变_110" data-name="未命名的渐变 110" cx="574.84" cy="121.776" fx="605.1027472496972" fy="91.63347851166769" r="42.713" gradientUnits="userSpaceOnUse">
+      <stop offset="0.501" stop-color="#fff"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <title>飓风球状态示意图</title>
+  <line class="cls-1" y1="233.478" x2="324.537" y2="233.478"/>
+  <circle class="cls-2" cx="116.966" cy="189.833" r="42.713"/>
+  <circle class="cls-3" cx="196.037" cy="157.405" r="42.713"/>
+  <circle class="cls-4" cx="523.843" cy="172.035" r="42.713"/>
+  <circle class="cls-5" cx="574.84" cy="121.776" r="42.713"/>
+  <circle class="cls-6" cx="116.966" cy="189.833" r="1.682"/>
+  <circle class="cls-6" cx="116.966" cy="233.478" r="1.682"/>
+  <g>
+    <line class="cls-7" x1="12.583" y1="233.478" x2="12.583" y2="165.655"/>
+    <polygon class="cls-6" points="12.583 160.36 15.632 167.822 12.583 166.051 9.534 167.822 12.583 160.36"/>
+  </g>
+  <g>
+    <line class="cls-7" x1="12.583" y1="232.948" x2="14.432" y2="232.187"/>
+    <line class="cls-8" x1="18.224" y1="230.628" x2="152.815" y2="175.258"/>
+    <line class="cls-7" x1="154.71" y1="174.478" x2="156.56" y2="173.717"/>
+  </g>
+  <line class="cls-7" x1="116.966" y1="232.755" x2="100.861" y2="196.631"/>
+  <g>
+    <line class="cls-7" x1="156.56" y1="173.717" x2="155.449" y2="175.38"/>
+    <line class="cls-9" x1="153.251" y1="178.672" x2="119.176" y2="229.695"/>
+    <line class="cls-7" x1="118.077" y1="231.341" x2="116.966" y2="233.005"/>
+  </g>
+  <line class="cls-10" x1="156.56" y1="173.717" x2="156.56" y2="233.478"/>
+  <line class="cls-10" x1="116.966" y1="189.833" x2="156.56" y2="189.833"/>
+  <g>
+    <line class="cls-11" x1="156.56" y1="173.717" x2="156.56" y2="74.987"/>
+    <path class="cls-12" d="M194,90.89l-3.243,1.972-.073-.11,2.1-5.288q.607-2.763,1.216-5.526.608,2.763,1.216,5.526l2.1,5.288-.055.11Z" transform="translate(-37.443 -14.287)"/>
+  </g>
+  <g>
+    <path class="cls-7" d="M201.445,98.957c2.2.751,3.576,1.83,3.576,3.027,0,2.27-4.946,4.11-11.047,4.11s-11.047-1.84-11.047-4.11c0-1.654,2.627-3.08,6.414-3.731" transform="translate(-37.443 -14.287)"/>
+    <path class="cls-6" d="M202.21,99.224l1.35-1.333-.045-.049-2.819.377-2.829-.082L200.4,99.4l2.31,1.661.06-.014Z" transform="translate(-37.443 -14.287)"/>
+  </g>
+  <g>
+    <line class="cls-13" x1="156.56" y1="173.717" x2="320.263" y2="105.851"/>
+    <path class="cls-6" d="M356.214,120.757l-3.063-2.241.074-.11,5.688-.085,5.571-.993-4.639,3.24-4.08,3.965-.124-.009Z" transform="translate(-37.443 -14.287)"/>
+  </g>
+  <g>
+    <line class="cls-11" x1="156.56" y1="173.717" x2="246.159" y2="136.437"/>
+    <path class="cls-12" d="M282.111,151.345l-3.067-2.236.074-.111,5.689-.092,5.569-1q-2.317,1.623-4.635,3.246l-4.075,3.97-.123-.009Z" transform="translate(-37.443 -14.287)"/>
+  </g>
+  <g>
+    <path class="cls-14" d="M278.715,161.024c.012,1.884-.451,3.225-1.406,3.622-2.051.854-5.6-2.979-7.919-8.561s-2.542-10.8-.491-11.652c1.488-.619,3.763,1.228,5.786,4.419" transform="translate(-37.443 -14.287)"/>
+    <path class="cls-6" d="M278.7,161.927l1.913.887.033-.065-1.487-2.789-1.014-2.976q-.165,1.563-.329,3.127l-.831,3.049.037.058Z" transform="translate(-37.443 -14.287)"/>
+  </g>
+  <line class="cls-7" x1="116.966" y1="189.833" x2="116.966" y2="233.478"/>
+  <path class="cls-7" d="M50.026,226.063c9.29,0,16.13,5.406,18.579,13.529" transform="translate(-37.443 -14.287)"/>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 23.917, 210.357)">θ</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 117.518, 210.739)">R</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 105.459, 247.445)">P</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 92.707, 212.812)">r</text>
+  <text class="cls-15" transform="matrix(0.574, 0, -0.101, 0.574, 98.385, 218.14)">ψ</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 131.375, 249.815)">r</text>
+  <text class="cls-15" transform="matrix(0.574, 0, -0.101, 0.574, 137.053, 255.143)">ϕ</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 137.109, 76.816)">ϕ</text>
+  <circle class="cls-6" cx="145.286" cy="63.458" r="0.826"/>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 138.079, 173.948)">C</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 247.583, 150.384)">ψ</text>
+  <circle class="cls-6" cx="255.911" cy="136.532" r="0.826"/>
+  <line class="cls-16" x1="116.966" y1="235.833" x2="116.966" y2="242.083"/>
+  <line class="cls-16" x1="156.56" y1="235.833" x2="156.56" y2="242.083"/>
+  <g>
+    <line class="cls-16" x1="121.396" y1="238.958" x2="152.13" y2="238.958"/>
+    <polygon class="cls-6" points="122.387 240.41 116.966 238.958 122.387 237.505 122.387 240.41"/>
+    <polygon class="cls-6" points="151.14 240.41 156.56 238.958 151.14 237.505 151.14 240.41"/>
+  </g>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 8.667, 156.981)">z</text>
+  <line class="cls-1" x1="523.843" y1="172.035" x2="574.84" y2="121.776"/>
+  <g>
+    <line class="cls-1" x1="443.644" y1="233.478" x2="647.261" y2="233.478"/>
+    <polygon class="cls-6" points="652.557 233.478 645.095 236.527 646.866 233.478 645.095 230.43 652.557 233.478"/>
+  </g>
+  <g>
+    <line class="cls-1" x1="443.644" y1="233.478" x2="443.644" y2="72.946"/>
+    <polygon class="cls-6" points="443.644 67.65 446.693 75.112 443.644 73.342 440.596 75.112 443.644 67.65"/>
+  </g>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 454.842, 74.982)">y</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 644.167, 222.106)">x</text>
+  <circle class="cls-6" cx="549.342" cy="146.905" r="1.682"/>
+  <line class="cls-10" x1="523.843" y1="172.035" x2="606.057" y2="172.035"/>
+  <path class="cls-7" d="M572.638,175.135c3.516,0,6.362,5,6.362,11.187" transform="translate(-37.443 -14.287)"/>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 545.834, 165.216)">ϕ</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 507.327, 145.242)">C(x,y)</text>
+  <text class="cls-15" transform="matrix(0.985, 0, -0.174, 0.985, 428.579, 245.083)">O</text>
+  <text class="cls-17" transform="translate(0.076 77.94)">A</text>
+  <text class="cls-17" transform="translate(411.101 77.94)">B</text>
+  <g>
+    <line class="cls-13" x1="156.56" y1="173.717" x2="98.39" y2="27.22"/>
+    <path class="cls-6" d="M136.429,43.008l-2.286,3.03-.109-.076V40.273l-.909-5.585,3.17,4.687,3.9,4.139-.011.124Z" transform="translate(-37.443 -14.287)"/>
+  </g>
+  <text class="cls-18" transform="translate(329.884 104.056)">e</text>
+  <text class="cls-18" transform="translate(337.688 109.384) scale(0.583)">3</text>
+  <text class="cls-19" transform="matrix(1.811, 0, -0.174, 0.985, 331.167, 97.575)">^</text>
+  <text class="cls-18" transform="translate(86.827 13.332)">e</text>
+  <text class="cls-18" transform="translate(94.632 18.66) scale(0.583)">1</text>
+  <text class="cls-19" transform="matrix(1.811, 0, -0.174, 0.985, 88.11, 6.85)">^</text>
+  <circle class="cls-6" cx="156.56" cy="173.717" r="1.682"/>
+  <line class="cls-10" x1="156.56" y1="173.717" x2="251.099" y2="173.717"/>
+  <g>
+    <line class="cls-7" x1="219.64" y1="226.834" x2="219.64" y2="180.361"/>
+    <polygon class="cls-6" points="221.819 225.348 219.64 233.478 217.461 225.348 221.819 225.348"/>
+    <polygon class="cls-6" points="221.819 181.847 219.64 173.717 217.461 181.847 221.819 181.847"/>
+  </g>
+  <text class="cls-20" transform="matrix(0.985, 0, -0.174, 0.985, 225.693, 207.646)">h=R</text>
+  <text class="cls-20" transform="matrix(0.985, 0, -0.174, 0.985, 306.685, 207.646)">θ</text>
+  <text class="cls-18" transform="translate(257.082 207.174)"><tspan xml:space="preserve">(1+cos  )</tspan></text>
+</svg>
